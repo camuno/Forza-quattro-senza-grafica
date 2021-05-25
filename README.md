@@ -1,4 +1,4 @@
-# Flappybird
+# Forza quattro senza grafica
 
 Creazione del gioco al solo scopo di imparare
 
